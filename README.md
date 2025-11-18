@@ -16,7 +16,7 @@
 
 🔬 Currently exploring the exciting intersection of **Robotics, LLM Fine-tuning, Machine Learning & Robotics Integration**
 
-💼 **4+ years** of professional experience building enterprise software that actually works
+💼 **3+ years** of professional experience building enterprise software that actually works
 
 ☕ **Fun Fact:** If you want to meet, it better be at a coffee place. I don't make the rules, the caffeine does!
 
@@ -70,20 +70,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohan-veer&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-veer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/mohan-veer)
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohan-veer&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -99,20 +87,11 @@
 
 ---
 
-## 🎯 Profile Views Counter
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=mohan-veer&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohan-veer.github.io/mohank.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohan-veer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-veeraghanta-9b55a1201/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mveeraghanta@ufl.edu)
