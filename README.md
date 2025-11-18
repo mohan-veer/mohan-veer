@@ -1,4 +1,4 @@
-# Hi there, I'm Mohan Veer! 👋
+# Hi there, I'm Mohan Veeraghanta! 👋
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 🔬 Currently exploring the exciting intersection of **Robotics, LLM Fine-tuning, Machine Learning & Robotics Integration**
 
-💼 **3+ years** of professional experience building enterprise software that actually works
+💼 **3+ years** of professional experience building enterprise software
 
 ☕ **Fun Fact:** If you want to meet, it better be at a coffee place. I don't make the rules, the caffeine does!
 
