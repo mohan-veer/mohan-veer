@@ -106,18 +106,8 @@
 
 ---
 
-## 💡 Random Dev Quote
-
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  
-### ⭐ Show some love by starring some repositories!
+#### Let's build something together!
 
 </div>
